@@ -5,6 +5,7 @@
 🌱 I’m currently learning **Laravel, Next.js**
 
 👨‍💻 All of my projects are available at [https://www.instagram.com/j4nnelle](https://www.instagram.com/j4nnelle)
+
 💬 Ask me about **Adobe, Design, Animation**
 
 📫 How to reach me **janelmagdasal@gmail.com**
